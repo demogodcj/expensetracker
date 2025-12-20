@@ -74,12 +74,9 @@ ProFinance is designed to work like a native app.
     * Chart.js (for visualizations)
     * jsPDF (for PDF generation)
     * FontAwesome (for icons)
-
+    * 
 ---
 
-Site:https://demogodcj.github.io/expensetracker/
-
----
 ## 🤝 Contributing
 Feel free to fork this project and submit pull requests. Suggestions for V18 are welcome!
 
