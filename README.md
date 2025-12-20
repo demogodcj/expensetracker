@@ -74,7 +74,7 @@ ProFinance is designed to work like a native app.
     * Chart.js (for visualizations)
     * jsPDF (for PDF generation)
     * FontAwesome (for icons)
-    * 
+ 
 ---
 
 ## 🤝 Contributing
