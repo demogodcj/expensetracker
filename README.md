@@ -80,4 +80,3 @@ ProFinance is designed to work like a native app.
 ## 🤝 Contributing
 Feel free to fork this project and submit pull requests. Suggestions for V18 are welcome!
 
-Created with ❤️ by [Ceaser]
